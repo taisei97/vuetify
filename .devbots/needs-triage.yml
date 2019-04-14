@@ -1,0 +1,3 @@
+enabled: true
+label: "triage"
+skip_when_has_assignee: true
